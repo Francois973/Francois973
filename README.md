@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **robino.francois973@gmail.com**
 
-- 📄 Know about me [Extremely motivated to constantly develop my skills and grow professionally in the world of computer programming.](Extremely motivated to constantly develop my skills and grow professionally in the world of computer programming.)
+- 📄 Know about me : Extremely motivated to constantly develop my skills and grow professionally in the world of computer programming.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
