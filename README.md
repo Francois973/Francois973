@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<<h1 align="center">Hi 👋, I'm François</h1>
+<h1 align="center">Hi 👋, I'm François</h1>
 <h3 align="center">I am learning Ruby on Rails and I am passionate about web programming</h3>
 
 - 🔭 I’m currently working on [Mediless](www.mediless.online)
