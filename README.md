@@ -2,6 +2,8 @@
 <h3 align="center">I am learning Ruby on Rails and I am passionate about web programming</h3>
 
 - 🔭 I’m currently working on a **Vulnerabilities checker** : https://secure-vnl.onrender.com/ 
+  *    Back-end :<a href="[https://www.linkedin.com/in/fran%C3%A7ois-robino-5b2293163/](https://github.com/Francois973/vulnerability-checker-back-end)" target="blank">Ruby On Rails API</a>
+  *    Front-end :<a href="[https://www.linkedin.com/in/fran%C3%A7ois-robino-5b2293163/](https://github.com/Francois973/vulnerability-checker-front-end)" target="blank">ReactJs</a>
 
 - 🌱 I’m currently learning **Rails & React**
 
