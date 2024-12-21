@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm François</h1>
 <h3 align="center">Fullstack developer at  CT-SQUARE</h3>
 
-- 🔭 I’m currently working on a **Vulnerabilities checker** : [Scanrepo.fr](https://secure-vnl-tlj7.onrender.com)
-  *    Back-end : <a href="(https://github.com/Francois973/vulnerability-checker-back-end)" target="blank">Ruby On Rails API</a>
-  *    Front-end : <a href="(https://github.com/Francois973/vulnerability-checker-front-end)" target="blank">ReactJs</a>/<a href="(https://github.com/Francois973/vulnerability-checker-front-end)" target="blank">Vue.js</a>
-
-- 🌱 I’m currently learning **Rails & React**
-
-- 📫 How to reach me **robino.francois973@gmail.com**
 
 - 📄 Know about me : Extremely motivated to constantly develop my skills and grow professionally in the world of computer programming.
 
